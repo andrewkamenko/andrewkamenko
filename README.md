@@ -4,6 +4,8 @@
 ## My CV
 [Link to my CV](https://github.com/andrewkamenko/CV)
 
+## My Certifications
+[Link to my Certifications](https://github.com/andrewkamenko/Certications)
 
 ### Tools and Tech I use
 ![Header](https://img.shields.io/badge/Testlink-090909?style=for-the-badge&logo=testlink&logoColor=8cc4d7)
