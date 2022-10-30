@@ -35,7 +35,4 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/AndrewKamenko)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/andrew-kamenko/)
 
-Stat
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewkamenko&show_icons=true&theme=dark)
