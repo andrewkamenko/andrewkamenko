@@ -21,7 +21,13 @@
 ![Header](https://img.shields.io/badge/WordPress-090909?style=for-the-badge&logo=wordpress&logoColor=7d5fa6)
 
 
-Testing documentations
+### Testing documentations
+- [Checklists](https://github.com/andrewkamenko/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/andrewkamenko/Test-cases)
+- [Bug-Reports](https://github.com/andrewkamenko/Bug-reports)
+- [SQL Queries](https://github.com/andrewkamenko/SQL.Examples)
+- [Postman Collections](https://github.com/andrewkamenko/API.Postman)
+- [JMeter Testplans](https://github.com/andrewkamenko/Load_Testing.JMeter)
 
 Follow me
 
